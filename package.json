@@ -1,0 +1,24 @@
+{
+  "name": "rbtag",
+  "version": "1.0.0",
+  "description": "node based TUI audio file tagger",
+  "main": "out/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikberkelder/RBTag.git"
+  },
+  "keywords": [
+    "mp3",
+    "tag",
+    "audio"
+  ],
+  "author": "Rik Berkelder",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rikberkelder/RBTag/issues"
+  },
+  "homepage": "https://github.com/rikberkelder/RBTag#readme"
+}
